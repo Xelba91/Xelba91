@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, I'm Alessandro Carrese</h1>
+<h1 align="center">Hi 👋, I'm Alessandro</h1>
 <h3 align="center">A passionate frontend developer from Naples,Italy</h3>
 <p align="center"> Attualmente sto seguendo un corso di FullStack Developer con Epicode 
 per poter ampliare le mie conoscenze di Html, Css, Sass, Bootstrap, Javascript, React.
