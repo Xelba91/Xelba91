@@ -1,6 +1,14 @@
 <h1 align="center">Hi 👋, I'm Alessandro Carrese</h1>
-<h3 align="center">A passionate frontend developer from Naples</h3>
-
+<h3 align="center">A passionate frontend developer from Naples,Italy</h3>
+<p align="center"> Attualmente sto seguendo un corso di FullStack Developer con Epicode 
+per poter ampliare le mie conoscenze con Html,Css,Sass,Bootstrap,Javascript,React.
+Mi sono occupato per molti anni di assistenza
+tecnica per formattazione, recupero dati, installazione di sistemi
+operativi e assemblaggio hardware.
+Nel 2023 In seguito a un accademy, sono stato selezionato per lavorare in
+Deloitte Nexthub dove ho iniziato a coltivare le prime basi nello sviluppo app lato front-end
+acquisendo i valori fondamentali per il team working e problem solving.
+</p>
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://www.linkedin.com/in/alessandro-carrese91/" target="_blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="alessandro carrese" height="30" width="40" /></a>
