@@ -20,7 +20,7 @@ acquisendo i valori fondamentali per il team working e problem solving.
 
 ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=xelba91&theme=dark&show_icons=true)
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=xelba91&layout=compact&langs_count=10
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=xelba91&layout=compact&langs_count=10)
 
 <!---
 Xelba91/Xelba91 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
