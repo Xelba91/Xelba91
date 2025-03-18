@@ -1,7 +1,6 @@
 <h1 align="center">Ciao 👋, Sono Xelba</h1>
 <h3 align="center">Sviluppatore frontend da Napoli, Italia</h3>
-<p align="center"> Attualmente sto seguendo un corso di FullStack Developer con Epicode 
-per poter ampliare le mie conoscenze di Html, Css, Sass, Bootstrap, Javascript, React.
+<p align="center"> 
 Mi sono occupato per molti anni di assistenza
 tecnica per formattazione, recupero dati, installazione di sistemi
 operativi e assemblaggio hardware.
